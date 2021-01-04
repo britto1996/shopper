@@ -1,1 +1,1 @@
-console.log("fuck off")
+console.log("the life is crazy")
